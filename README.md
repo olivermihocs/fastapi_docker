@@ -1,2 +1,2 @@
-# A Dockerized FastAPI application 
+# A template for creating dockerized FastAPI applications
 
